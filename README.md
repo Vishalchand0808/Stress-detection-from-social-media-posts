@@ -13,7 +13,7 @@ Binary stress-vs-non-stress classification on Reddit posts, comparing six text-r
 
 ## Quick start (Colab)
 1. Open **Stress_Detection.ipynb** in Colab.  
-2. Upload your `kaggle.json` when prompted – notebook auto-downloads Dreaddit train/test CSVs.  
+2. Upload Dreaddit train/test CSVs.  
 3. `Runtime ▸ Run all` – plots and metrics appear at the end.
 
 ## Dataset
